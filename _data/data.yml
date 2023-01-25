@@ -1,26 +1,26 @@
 basic:
-  name: Foo Bar
+  name: Suchanej Yimyai
   title: Backend Developer
   avatar:
     display: true
-    path: profile.png
+    path: me.png
 
 contact:
   location:
-  email: me@example.com
-  phone: +86-111-2222-3333
-  website: example.com
+  email: suchanej.19@gmail.com
+  phone: +66-83-915-2305
+  website:
   wechat:
   whatsapp:
   telegram:
-  github: github
+  github:
   gitlab:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/suchanej-yimyai/
   medium:
-  twitter: twitter
+  twitter:
   stackoverflow:
   quora:
   goodreads:
@@ -40,31 +40,45 @@ experiences:
   title: Experiences
   items:
     - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+      time: Dec 2021 - Present
+      company: Hitachi eBworx (Indo-China) Co Ltd.
+      tag: Hybrid, full-time
+      location: Bangkok
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Using JAVA Spring boot framework to produce Cash management applications for banks with microservices architecture.
+        + Using Git version control to apply with application production.
+        + Using PostgreSQL for database management.
 
         ...
 
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Software Engineer
+      time: Apr 2021 - Nov 2021
+      company: 2 Enhance Corporation Co., Ltd.
+      tag: Hybrid, full-time
+      location: Nonthaburi
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Using ESP32 for cashless device controller by using Arduino IDE.
+        + Using Express JS Framework to develop web service for IOT usage.
+        + Using Amazon EC2 to run web service.
+        + Using Amazon RDS for data storage.
+
+        ...
+    
+    - role: Software Engineer
+      time: Dec 2020 - Mar 2021
+      company: 2 Enhance Corporation Co., Ltd.
+      tag: Onsite, internship
+      location: Nonthaburi
+      details: |
+        Experience in this company:
+        + Using ESP32 for cashless device controller by using Arduino IDE.
 
         ...
 
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -84,48 +98,65 @@ skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
-
+    Programming Languages:
+    + C, C++, PHP, JAVA, SQL, Javascript, Typescript, Python, GO.
+    Frameworks:
+    + Nest JS, Gin Gonic, Spring Boot.
+    Databases:
+    + Mariadb, PostgreSQL.
+    Version Control:
+    + Git.
+    Containerize:
+    + Docker.
     ...
 
-  levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+  # levels:
+  #   - name: Skill A
+  #     level: 90
+  #   - name: Skill B
+  #     level: 80
+  #   - name: Skill C
+  #     level: 70
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
+    - university: King Mongkut's University of Technology North Bangkok
+      time: 2017 - 2020
+      major: Mechatronics Engineering
+      degree: Bachelor of Engineering
+      # details: |
+      #   Experience in this university:
+      #   + First
+      #   + Second
 
-        ...
+      #   ...
 
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
-      degree: Bachelor
-      details: |
-        Experience in this university:
-        + First
-        + Second
+    - university: Yothinburana School
+      time: 2010 - 2016
+      major: Science - Mathematic
+      degree: Grade 12
+      # details: |
+      #   Experience in this university:
+      #   + First
+      #   + Second
 
-        ...
+      #   ...
+
+    - university: Bhadungsit Pittaya School
+      time: 2004 - 2009
+      major: N/A
+      degree: Grade 6
+      # details: |
+      #   Experience in this university:
+      #   + First
+      #   + Second
+
+      #   ...
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -141,7 +172,7 @@ certificates:
       details: |
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -157,7 +188,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -167,10 +198,10 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Thai
       level: Native
     - idiom: English
-      level: Professional
+      level: Entry
 
 interests:
   display: true
@@ -182,7 +213,7 @@ interests:
       link:
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
     Here is my self evaluation.
@@ -192,7 +223,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
