@@ -196,10 +196,10 @@ languages:
     - idiom: Thai
       level: Native
     - idiom: English
-      level: Entry
+      level: Basic
 
 interests:
-  display: true
+  display: false
   title: Interests
   items:
     - item: Reading
