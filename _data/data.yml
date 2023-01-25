@@ -30,6 +30,7 @@ profile:
   title: Career Objective
   details: |
     Desire to obtain an entry-level Software Engineer or related job position. 
+    
     Comes with a Bachelor of Engineering degree and experience 2 years in programming.
 
 experiences:
@@ -101,6 +102,7 @@ skills:
 
     Containerize:
     + Docker.
+    
 
   # levels:
   #   - name: Skill A
