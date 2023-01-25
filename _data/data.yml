@@ -3,7 +3,7 @@ basic:
   title: Backend Developer
   avatar:
     display: true
-    path: me.png
+    path: me.jpg
 
 contact:
   location:
@@ -18,7 +18,7 @@ contact:
   bitbucket:
   googlescholar:
   researchgate:
-  linkedin: https://www.linkedin.com/in/suchanej-yimyai/
+  linkedin: suchanej-yimyai
   medium:
   twitter:
   stackoverflow:
@@ -27,13 +27,10 @@ contact:
 
 profile:
   display: true
-  title: Profile
+  title: Career Objective
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
-
-    ...
+    Desire to obtain an entry-level Software Engineer or related job position. 
+    Comes with a Bachelor of Engineering degree and experience 2 years in programming.
 
 experiences:
   display: true
@@ -46,11 +43,10 @@ experiences:
       location: Bangkok
       details: |
         Experience in this company:
-        + Using JAVA Spring boot framework to produce Cash management applications for banks with microservices architecture.
+        + Using JAVA Spring boot framework to produce Cash management applications for banks 
+          with microservices architecture.
         + Using Git version control to apply with application production.
         + Using PostgreSQL for database management.
-
-        ...
 
     - role: Software Engineer
       time: Apr 2021 - Nov 2021
@@ -63,8 +59,6 @@ experiences:
         + Using Express JS Framework to develop web service for IOT usage.
         + Using Amazon EC2 to run web service.
         + Using Amazon RDS for data storage.
-
-        ...
     
     - role: Software Engineer
       time: Dec 2020 - Mar 2021
@@ -74,8 +68,6 @@ experiences:
       details: |
         Experience in this company:
         + Using ESP32 for cashless device controller by using Arduino IDE.
-
-        ...
 
 projects:
   display: false
@@ -100,15 +92,18 @@ skills:
   details: |
     Programming Languages:
     + C, C++, PHP, JAVA, SQL, Javascript, Typescript, Python, GO.
+
     Frameworks:
     + Nest JS, Gin Gonic, Spring Boot.
+
     Databases:
     + Mariadb, PostgreSQL.
+
     Version Control:
     + Git.
+
     Containerize:
     + Docker.
-    ...
 
   # levels:
   #   - name: Skill A
