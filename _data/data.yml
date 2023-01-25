@@ -6,9 +6,9 @@ basic:
     path: me.jpg
 
 contact:
-  location:
+  location: 80/2 Santisuk Allay, Nakhon Chai Si Road, Dusit, Bangkok, Thailand, 10300
   email: suchanej.19@gmail.com
-  phone: +66-83-915-2305
+  phone: +6683-915-2305
   website:
   wechat:
   whatsapp:
@@ -40,9 +40,8 @@ experiences:
       time: Dec 2021 - Present
       company: Hitachi eBworx (Indo-China) Co Ltd.
       tag: Hybrid, full-time
-      location: Bangkok
+      location: Bangkok, Thailand
       details: |
-        Experience in this company:
         + Using JAVA Spring boot framework to produce Cash management applications for banks 
           with microservices architecture.
         + Using Git version control to apply with application production.
@@ -52,9 +51,8 @@ experiences:
       time: Apr 2021 - Nov 2021
       company: 2 Enhance Corporation Co., Ltd.
       tag: Hybrid, full-time
-      location: Nonthaburi
+      location: Nonthaburi, Thailand
       details: |
-        Experience in this company:
         + Using ESP32 for cashless device controller by using Arduino IDE.
         + Using Express JS Framework to develop web service for IOT usage.
         + Using Amazon EC2 to run web service.
@@ -64,9 +62,8 @@ experiences:
       time: Dec 2020 - Mar 2021
       company: 2 Enhance Corporation Co., Ltd.
       tag: Onsite, internship
-      location: Nonthaburi
+      location: Nonthaburi, Thailand
       details: |
-        Experience in this company:
         + Using ESP32 for cashless device controller by using Arduino IDE.
 
 projects:
