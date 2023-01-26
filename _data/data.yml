@@ -66,6 +66,7 @@ experiences:
       location: Nonthaburi, Thailand
       details: |
         + Using ESP32 for cashless device controller by using Arduino IDE.
+        + PCB design.
 
 projects:
   display: false
@@ -100,8 +101,8 @@ skills:
     Version Control:
     + Git.
 
-    Containerize:
-    + Docker.
+    CI/CD tools:
+    + Docker, Jenkins.
     
 
   # levels:
