@@ -58,6 +58,7 @@ experiences:
         + Using Express JS Framework to develop web service for IOT usage.
         + Using Amazon EC2 to run web service.
         + Using Amazon RDS for data storage.
+        + PCB design.
     
     - role: Software Engineer
       time: Dec 2020 - Mar 2021
