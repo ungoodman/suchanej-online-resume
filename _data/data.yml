@@ -26,7 +26,7 @@ contact:
   goodreads:
 
 profile:
-  display: true
+  display: false
   title: Career Objective
   details: |
     Desire to obtain an entry-level Software Engineer or related job position. 
@@ -138,10 +138,10 @@ education:
 
       #   ...
 
-    - university: Bhadungsit Pittaya School
-      time: 2004 - 2009
-      major: N/A
-      degree: Grade 6
+    # - university: Bhadungsit Pittaya School
+    #   time: 2004 - 2009
+    #   major: N/A
+    #   degree: Grade 6
       # details: |
       #   Experience in this university:
       #   + First
